@@ -1,0 +1,10 @@
+[
+    {
+        "variable": "PROJECT_NAME",
+        "description": "Project Name"
+    },
+    {
+        "variable": "SERVICE_NAME",
+        "description": "Service Name"
+    }
+]
